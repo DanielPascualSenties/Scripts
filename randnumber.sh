@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# By Daniel Pascual Sentíes
 # Takes in an integer, returns a random 
 # integer between one and said number
 
